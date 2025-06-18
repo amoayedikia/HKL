@@ -15,7 +15,7 @@ If you use this algorithm in your research, please cite:
 @article{moayedikia2024hkl,
   title={Novel Feature Selection Algorithm Using Harmony Search and Kullback-Leibler Divergence for High-Dimensional Imbalanced Class Datasets},
   author={Moayedikia, Alireza and Jensen, Richard},
-  journal={Pattern Recognition},
+  journal={Data Mining and Knowledge Discovery},
   year={2024},
   publisher={Elsevier}
 }
